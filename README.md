@@ -1,6 +1,6 @@
 ## 0xBet
 
-Welcome to 0xBet, a blockchain-based betting platform that allows users to punt using tokens!
+Welcome to 0xBet, a blockchain-based betting platform that allows users to punt using tokens! Still in development phase.
 
 ### Table of Contents
 
