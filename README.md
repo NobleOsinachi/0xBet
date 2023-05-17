@@ -29,9 +29,12 @@ Outline the key features of 0xBet. Highlight the advantages it offers over tradi
 
 Guide users through the installation process. Specify any prerequisites, dependencies, or system requirements. Provide step-by-step instructions to ensure a smooth installation experience.
 
+<!--
 ### Usage
 
-Describe how to use 0xBet effectively. Include examples or screenshots to illustrate the user journey within the platform. Explain the process of acquiring tokens, placing bets, and managing transactions securely.
+ Describe how to use 0xBet effectively. Include examples or screenshots to illustrate the user journey within the platform. Explain the process of acquiring tokens, placing bets, and managing transactions securely. 
+-->
+
 
 ### Contributing
 
