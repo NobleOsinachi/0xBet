@@ -1,6 +1,7 @@
 ## 0xBet
 
-Welcome to 0xBet, a blockchain-based betting platform that allows users to punt using tokens! Still in development phase.
+Welcome to 0xBet, a blockchain-based betting platform that allows users to punt using tokens! 
+Still in development phase.
 
 ### Table of Contents
 
@@ -34,7 +35,7 @@ Describe how to use 0xBet effectively. Include examples or screenshots to illust
 
 ### Contributing
 
-Encourage developers and users to contribute to 0xBet. Explain how they can get involved, submit bug reports, suggest new features, or contribute code. Provide guidelines for pull requests and explain the project's coding standards.
+Web3 dApp developers and users are highly encouraged to contribute to 0xBet. You can get involved by submitting bug reports, suggesting new features, or even contributing code via pull requests. More guidelines for pull requests and the project's coding standards will be in the CONTRIBUTING.md file.
 
 ### License
 
